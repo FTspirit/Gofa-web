@@ -212,6 +212,12 @@ q {
   flex-direction: column;
   align-items: flex-end;
 }
+.feature-image-ip {
+  width: 30%;
+}
+.feature-image-carplay {
+  width: 65%;
+}
 .step-img-box {
   position: relative;
 }

@@ -65,6 +65,9 @@
   padding: 5rem 0 10rem 0;
   position: relative;
   overflow: hidden;
+  background-image: url("../GOFAimages/Facebook\ cover.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .hero {
   justify-content: center;
@@ -78,7 +81,7 @@
 .heading-text {
   font-size: 5.5rem;
   font-weight: 700;
-  color: #333;
+  color: #fff;
   letter-spacing: -1px;
   line-height: 1.2;
   text-align: left;
